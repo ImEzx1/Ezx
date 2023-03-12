@@ -1,0 +1,2 @@
+# Ezx
+TOKEN
