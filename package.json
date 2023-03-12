@@ -1,0 +1,27 @@
+{
+  "name": "Token Takeover",
+  "version": "1.0.0",
+  "description": "Takeover any bot token with the most advanced nuker app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron --trace-warnings ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "better-sqlite3": "^8.0.1",
+    "discord-bitfield-calculator": "^1.2.0",
+    "discord-permissions": "^1.0.2",
+    "discord.js": "^14.7.1",
+    "discord.js.userbot": "^1.0.3",
+    "electron": "^22.0.0",
+    "fetch": "^1.1.0",
+    "https-proxy-agent": "^5.0.1",
+    "node-fetch": "^2.6.9",
+    "pretty-ms": "^7.0.1",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  }
+}

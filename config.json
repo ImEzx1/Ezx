@@ -1,0 +1,11 @@
+{
+    "type": "bot",
+    "token": "",
+    "note": "token isn't needed and not recommended, it's just for automatically logging into a token when you open token takeover",
+    "save_tokens": true,
+    "member_count_to_save": 50,
+    "member_count_to_save_to_big_tokens": 1000,
+    "user_id": "user id, you can give yourself admin without typing out ur id",
+    "channel_spam_limit": 1000,
+    "spammer": "@everyone"
+}
